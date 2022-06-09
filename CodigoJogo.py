@@ -1,5 +1,3 @@
-# Jogo_Digital
-
 import ddf.minim.*;
 
 // Declaração de um objeto da classe Minim. Será utilizada para controlar os áudios do programa.
